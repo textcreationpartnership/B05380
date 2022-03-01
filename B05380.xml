@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Privy Council of Scotland's letter to the King, together with the arch-Bishops and bishops as also several English addresses to His Majesty.</title>
+            <author>Scotland. Privy Council</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05380</idno>
+            <idno type="STC">Wing S1509B</idno>
+            <idno type="STC">ESTC R218102</idno>
+            <idno type="EEBO-CITATION">53981575</idno>
+            <idno type="OCLC">ocm 53981575</idno>
+            <idno type="VID">180356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180356)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Privy Council of Scotland's letter to the King, together with the arch-Bishops and bishops as also several English addresses to His Majesty.</title>
+                  <author>Scotland. Privy Council</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, Printer to the Kings most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>Edinburgh, February 10, 1685 [statement of reaction to the death of Charles II and succession of James II] -- Letter to his Majesty from his Privy Council of Scotland, Feb. 10 1685 -- Letter to his Majesty from the arch-bishops and bishops of Scotland, Feb. 10. 1685 -- Dublin, February 11 [statement of reaction in Ireland] -- [Letter from] the Governour and Company of Merchant Adventures of England -- The humble address of the Lord and Proprietary, the merchants, traders and planters, of and belonging to his Majesties province of Maryland -- The humble address of the President, Vice-president, Treasurer, Court of Assistants, and Body of the Artillery Company of the City of London -- The humble address of the mayor, bailiffs and commonality of the city of Winchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Death and burial.</term>
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Sources.</term>
+               <term>Maryland --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:180356:1"/>
+            <pb facs="tcp:180356:1" rendition="simple:additions"/>
+            <head>The Privy Council of <hi>Scotlands</hi> Letter to the King, toge<g ref="char:EOLhyphen"/>ther with the Arch-Biſhops and Biſhops: As alſo ſeveral Engliſh Addreſſes to His Majeſty.</head>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>
+                        <hi>February</hi> 10. 1685.</date>
+                  </dateline>
+               </opener>
+               <p>LAſt night arrived here a flying Pacquet, which brought us the moſt ſorow<g ref="char:EOLhyphen"/>ful News of the Death of our late Gracious Soveraign; Whereupon the Lord Chancellor, and the Lord Theſaurer call'd the Privy Council immediatly to meet, and having expreſſed their juſt Grief for the loſs of ſo good a King and Maſter, they unanimouſly, and with a great Alacrity, reſolved to Proclaim the next morning Our Dread Soveraign King <hi>JAMES</hi> the Seventh. Accordingly at eight in the morning the Privy Council met again, and having read his Majeſties Gracious Letter to them; the Lord Chancellor took the Oath of Allegiance, the Oath of a Privy Counſellor and the Teſt, and then adminiſtred the ſame to the other Counſellors; which done, they all Signed the Proclamation for Proclaim<g ref="char:EOLhyphen"/>ing his Majeſty, and then went to aſſiſt at the Solemnity of it. The Lord Pro<g ref="char:EOLhyphen"/>voſt, Magiſtrats, and Town Council in their Formalities marched bare-Headed, next the Lyon and Heralds in their Coats of Arms diſplayed: Then the Lord Chancelor, Lord Theſaurer, and the reſt of the Officers of State and Councellors, and other Lords Spiritual and Temporal, and after them the Lords of the Seſſion in their Robes, The Train-Bands ſtanding on both ſides of the Street: Being come to the Croſs, and mounting it, The Lord Chancellor Proclaimed the King, which was followed with an Univerſal Acclamation from more than 30000 of all Ranks of people preſent, who with up-lifted hands ſwore Alleag<g ref="char:EOLhyphen"/>ance to His M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſty. And then was Proclaimed his Majeſties Gracious Procla<g ref="char:EOLhyphen"/>mation for continuing all Officers by Lyon King at Arms; after which they mar<g ref="char:EOLhyphen"/>ched back in the ſame manner to the Council-houſe. In the afternoon the Pri<g ref="char:EOLhyphen"/>vy Council met again, and went with the Magiſtrats to the Croſs, where they drank the King and Queens Health, and the reſt of the Royal Familie. The Town was full of Bonefires, the Canons from the Caſtle fired all the while, and the Night concluded with all imaginable Demonſtrations of Joy and Satisfaction.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter to His Majeſty from His Privy Council of <hi>Scotland.</hi>
+               </head>
+               <opener>
+                  <salute>May it pleaſe Your Sacred Majesty.</salute>
+               </opener>
+               <p>NOthing could ſupport us under this great load of juſt grief and ſorrow, for the removal of our late Gracious Soveraign, who tranſcended all that ever Reigned before him, in Wiſdom, Juſtice, and Clemency: But that he being thereby become without doubt more happy and glorious, hath left us under your Sacred Majeſties moſt Auſpicious Government, who are the undoubted and juſt Lineal Heir of Authority and Soveraignty, and the true Succeſſour of his Royal Virtues, with all thoſe great qualities which can fit a Prince for the glorious dig<g ref="char:EOLhyphen"/>nity of being Vicegerent to Almighty God. In whom alſo this your ancient Kingdom cannot but be happy in a moſt eſpecial manner, your Majeſty being the Lineal and Legal Succeſſor, of that moſt ancient Race of Kings, by whom for ſo many ages this Kingdom hath been Governed with ſo much Juſtice, and defended by ſo much Valour; and your Sacred Majeſty having been ſo inſtrumental in your own Perſon to ſecure us againſt thoſe Confuſions and Diſtractions, in which we were involved, before your Majeſty did us the honour to ſpend ſome time amongſt us.</p>
+               <p>We therefore your Majeſties Privy Council, being Authorized by your Gra<g ref="char:EOLhyphen"/>cious Letter, did meet, and in Recognizance of your juſt right and Title, we did renew to your Sacred Majeſty who now Reigns, the uſual Oath of Privy Coun<g ref="char:EOLhyphen"/>ſellors and thereafter attended by the Nobility and Clergy of this your ancient Kingdom, the Lords of your Council and Seſſion, and the Magiſtrats of your
+<pb facs="tcp:180356:2"/>City of <hi>Edinburgh,</hi> did at the Mercat Croſs of this City, as uſe is, Proclaim and Declare your Majeſty our King and Soveraign, binding our ſelves by a ſolemn Oath, to hazard our Lives and Fortunes, in the Defence of your Majeſties Title and Perſon, which was moſt dutifully and joyfully ſeconded by the univerſal Ac<g ref="char:EOLhyphen"/>clamations of thoſe great crowds of your Majeſties Subjects who were then preſent. After which we likewiſe Promulgated your Gracious Proclamation, for continuing your Officers, Judges, and Magiſtrats in their former Employments. And as to theſe wherein your Majeſty is graciouſly pleaſed to continue us. We ſhall make it our chief endeavour to improve the ſame with all zeal and faithfulneſs for the good of your Majeſties Service. And that Almighty God, by whom Kings Reign, may preſerve your Royal Perſon, and make your Government Glorious and Succeſsful, is and ever ſhall be the Hearty Prayers of,</p>
+               <closer>
+                  <salute>May it pleaſe your Sacred Majesty,</salute> 
+                  <signed>Your Majeſties moſt Humble, moſt Faithful, and moſt Obedient Subjects and Servants.</signed>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>Feb. 10. 1685.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to His Majeſty from the Arch-Biſhops and Biſhops of <hi>Scotland.</hi>
+               </head>
+               <opener>
+                  <salute>Moſt Sacred Soveraign.</salute>
+               </opener>
+               <p>OUr deep and Juſt Sorrow for the Death of our late Bleſſed and Gracious King, would certainly ſwallow us up, did not the righteous and peaceable Suc<g ref="char:EOLhyphen"/>ceſſion of your Majeſty ſupport us under our unexpreſſible affliction.</p>
+               <p>Had we the honour and Happineſs to proſtrate our Perſons at your Royal Feet, our Tears would prove our beſt Orators for the former, as our Prayers and Thankſgivings to the only Ruler of Princes, and our beſt and moſt faithful endea<g ref="char:EOLhyphen"/>vours to ſerve your moſt Sacred Majeſty, ſhall ever expreſs our Joy and Zeal for the latter.</p>
+               <p>Your pious Zeal for the Honour and Intereſt of your Royal Brother our late Soveraign now in Glory; and for this your Ancient Kingdom whilſt we enjoyed the happineſs of your preſence amongſt us, as it did then demonſtrate you to be the beſt and moſt obedient of Subjects, ſo did it Prognoſticate your being the kindeſt and moſt Paternal of Soveraign Princes to your People.</p>
+               <p>At this diſtance from your Royal Preſence, we are able in our preſent cir<g ref="char:EOLhyphen"/>cumſtances to do no more than humbly to Addreſs to your Majeſty in Paper, to pay that Duty we owe upon ſo Solemn an occaſion; But are reſolved (if your Sacred Majeſty ſhall allow) to deſire the Arch-Biſhop of St. <hi>Andrews</hi> (who is moſt deſirous and ambitious to congratulate your moſt righteous Succeſſion to the Thrones of your Royal Anceſtors) to Addreſs himſelf to your Royal Pre<g ref="char:EOLhyphen"/>ſence, more fully to expreſs our ſenſe and duty, than a Letter can allow, and humbly to implore your Majeſties Protection and Favour to this National Church, and to our Order and Perſons; which we are humbly confident to obtain, when we reflect upon your Piety and Zeal for all theſe Intereſts, during your aboad in this Kingdom.</p>
+               <p>To honour, ſerve and humbly obey your Sacred Majeſty in all our Capacities, as Gods Vicegerent over us, is not only incorporated into our Religion, but is the moſt Zealous Inclination of,</p>
+               <closer>
+                  <salute>Moſt Sacred Soveraign,</salute>
+                  <signed>Your Majesties moſt Humble, moſt Loyal, and moſt Obedient Subjects and Servants.</signed>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>Feb. 10. 1685.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Dublin,</hi> 
+                     <date>
+                        <hi>February</hi> 11.</date>
+                  </dateline>
+               </opener>
+               <p>HIs Grace the Duke of <hi>Ormond,</hi> Lord Lievtenant of this Kingdom, having receiv'd laſt night an expreſs, with the ſad News of Our Ineſtimable loſs in the Death of our late Soveraign King <hi>Charles</hi> the ſecond, immediately ſum<g ref="char:EOLhyphen"/>moned the Privy-Council, and there gave the Orders that were neceſſary on
+<pb facs="tcp:180356:2"/>this occaſion. This morning the Lords Spiritual and Temporal, the Privy-Council, the Judges, the Lord Mayor and Aldermen, and the Officers of the Army, as many of each Degree as were in Town, with many other Gentlemen of Quality, all in the Habits proper to their ſeveral Capacities attended his Grace in the Great Hall of the Caſtle, and having their unanimouſly. Subſcribed a Re<g ref="char:EOLhyphen"/>cognition of the Indubitable Right and Tittle of King <hi>James</hi> the Second, took Horſe in the Caſtle-Yard, and riding out from thence attended with the Heralds, the ſeveral Enſigns of Authority, and the Trumpets and Kettle-Drums, Proclaimed H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Majeſty in three places of this City, firſt at the Caſtle-Gate, then at the Toſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and laſtly in the publick Corn-Market, with Volleys of Shot from the Great Guns at each Proclamation. The whole Proceſſion was performed with all the Splendor and Solemnity the ſhortneſſe of time would permit, and with all poſſible demonſtrations of Joy and Satisfaction. In the Afternoon the Councll was ſummoned again, and two Proclamations were Signed to be ſent forthwith to all the Counties of the Kingdom, the one for Proclaiming the King in all Shire Towns, and Towns Corporate, and the other for continuing all Magiſtrats and Officers both Civil and Military in their ſeveral Employments: and the night was begun with Bonfires and Ringing of Bells. The Recognition and Proclamation was according to the Form uſed in <hi>England.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>White-Hall,</hi> 
+                     <date>
+                        <hi>Feb.</hi> 18. The Following Addreſſes have been preſented to His Ma<g ref="char:EOLhyphen"/>jeſty, who received them very Graciouſly.</date>
+                  </dateline>
+                  <salute>To the Kings moſt Excellent <hi>Majeſty.</hi>
+                  </salute>
+               </opener>
+               <p>
+                  <hi>VVE your</hi> Majeſties <hi>moſt Loyal and Dutieful Subjects, the</hi> Governour and Company of Merchant-Adventurers of England, <hi>having by the Royal Grace and Favour of your Majesties most Noble Predeceſſors, flouriſhed as a Company of Merchants, near the ſpace of</hi> 400 <hi>years, as we are the ancienteſt in time, do think our ſelves obliged to be the firſt in Duty, in making this our moſt humble Addreſs to your Majeſty. And being overwhelmed in ſorrow, for our unſpeakable loſs, in the Death of our late</hi> Dread Soveraign, <hi>your Majesties moſt dear Brother; are, in a great meaſure comforted and ſupported in that our juſt grief, by the</hi> Rightful Lineal, and unque<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>onable Succeſſion <hi>of your moſt Sacred Majeſty, Rendering infinite thanks for your Gracious Proclamation of the</hi> 9th <hi>inſtant; and do humbly ſubmit to your Royal Will and Pleaſure therein, for the Collection of the</hi> Cuſtoms <hi>as formerly; and always pray<g ref="char:EOLhyphen"/>ing, (as in duty bound) your Majeſties Government may be long and proſperous over us, We will ever be ready to maintain and defend the ſame with our Lives and For<g ref="char:EOLhyphen"/>tunes.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the Kings moſt Excellent Majeſty,</hi> The humble Addreſs of the Lord and Proprietary, the Merchants, Traders and Plan<g ref="char:EOLhyphen"/>ters, of and belonging to His Majeſties Province of <hi>Maryland.</hi>
+               </head>
+               <p>WE your Majeſties moſt Loyal, and Dutiful Subjects, the Lord, and Pro<g ref="char:EOLhyphen"/>prietary, Merchants, Traders, and Planters of, and belonging to your Majeſties Province of <hi>Maryland;</hi> as we do with the deepeſt ſenſe of ſorrow hum<g ref="char:EOLhyphen"/>bly bemoan your Majeſties loſs of the beſt of Brothers, in the Deceaſe of our late moſt Gracious Soveraign. So do we no leſs rejoice at your Majeſties happy Acceſ<g ref="char:EOLhyphen"/>ſion to the Throne of your Royal Predeceſſors, and Soveraignty over us, ſince the early and many Proofs which your Majeſty has given abroad, and at home, in Defence of your now Dominions, of all thoſe Royal Virtues, which now ren<g ref="char:EOLhyphen"/>der you the greateſt of Monarchs, and moſt eſpecially, your Magnanimity and ſteddy Conduct in the moſt adverſe of Fortunes, has given us aſſu<g ref="char:EOLhyphen"/>rance that our Lives and Properties are ſecurely Depoſited in your Majeſties hands. We therefore in regard that the Cuſtoms are the moſt conſiderable, and grow<g ref="char:EOLhyphen"/>ing Branch of your Majeſties Revenue. Do moſt humbly acquieſce and ſubmit to the Proclamation which your Majeſty has been pleaſed to publiſh for Collecting the Cuſtoms, as in the time of our late Soveraign, and ſhall pay all Obedience
+<pb facs="tcp:180356:3"/>thereunto. Wiſhing with moſt ſincere and zealous hearts, that your Majeſty may continue in a long and Glorious Reign over us.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the Kings moſt Excellent Majeſty,</hi> The humble Addreſs of the Preſident, Vice-preſident, Treaſurer, Court of Aſſistants, and Body of the Artillery Company of the City of <hi>London.</hi>
+               </head>
+               <p>THat your Majeſties ſaid ever Loyal and moſt obedient Subjects and Souldiers, do with all their Souls bleſs Almighty God, for the Deliverance of your Sa<g ref="char:EOLhyphen"/>cred Majeſty out of the hands of your blood thirſty and malicious Enemies, and for Repairing the heavieſt Calamities imaginable, in the loſs of our late Dread So<g ref="char:EOLhyphen"/>veraign, by ſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liuſtrious a Succeſſion, both to his Imperial Crown, and to his Roy<g ref="char:EOLhyphen"/>al Vertues, all Plots, Forgeries, and Antimonarchical Bills of Excluſion notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+               <p>And your Majeſties humble Sub<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cts being conſcious to themſelves of the double Duty, as well of a Military as of a Civil Allegiance, having for many years laſt paſt; had the honour to bear Arms under your Majeſties Command, as their Prince<g ref="char:EOLhyphen"/>ly Leader, and at preſent as their Dread Soveraign, Do with their Lives and For<g ref="char:EOLhyphen"/>tunes declare their uttermoſt deteſtation of all Conſpirators, and Conſpiracies whatſoever; and that they will with their Swords in their Hands, Defend your Majeſties Honour, Perſon, Crown, Title and Dignity againſt all Oppoſers to their laſt Breath; Beſeeching Almighty God to ſhowre down upon your Sacred Head all Bleſſings both of the Right and Left Hand. And your Majeſties moſt dutiful Subjects do no longer expect mercy from Heaven, than while they continue firm and ſteady in their Faith and Allegiance to your moſt Excellent Majeſty.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the Kings moſt Excellent Majeſty, King</hi> James <hi>the Second,</hi> The humble Addreſs of the Mayor, Bailiffs and Commonality of the City of <hi>Wincheſter.</hi>
+               </head>
+               <opener>Sheweth.</opener>
+               <p>THat we your Majeſties moſt Loyal, Dutiful and Obedient Subjects, Do from the bottom of our Hearts, and with unexpreſſible grief Condole the Death of that Excellent Prince King <hi>Charles</hi> the Second (of bleſſed Memory) your Maje<g ref="char:EOLhyphen"/>ſties Dear Brother, and our late Dread Soveraign, and with unſpeakable Joy give thanks to Almighty God for your Majeſties Acceſſion to the Throne of your An<g ref="char:EOLhyphen"/>ceſtors, and Government of theſe Nations, Rightly deſcended to you: And we moſt humbly pray that your Majeſty will pleaſe to accept of our Vows and un<g ref="char:EOLhyphen"/>alterable Reſolutions, to venture our Lives and Fortunes for the Defence of your Sacred Perſon, Crown and Dignity.</p>
+               <p>We ſhould be ungrateful if we could forget, how often your Majeſty hath free<g ref="char:EOLhyphen"/>ly ventured your Life for the Honour and Preſervation of theſe Kingdoms, when your Valour Crowned you with Lawrels, and we muſt loſe our ſenſes to imagine you will do leſs for their Welfare now, that Heaven hath placed you on the Throne.</p>
+               <p>And your Majeſty was Graciouſly pleaſed to be inſtrumental to your late Roy<g ref="char:EOLhyphen"/>al Brother, and preſent Queens, honouring our City with their preſence; and we humbly hope and pray. That at ſome leiſure time, you and your Royal Con<g ref="char:EOLhyphen"/>ſort will do us the like Honour, and enjoy the benefit of our Air, which both of you found healthful, and we hope may conduce to your Majeſties having a nume<g ref="char:EOLhyphen"/>rous Iſſue by that Virtuous Princeſs.</p>
+               <p>It is both our Duty and Intereſt to offer up dayly Prayers for your Majeſties long Life and moſt happy Reign over us; and ſince the latter will be impoſſible, if you ſhould loſe what you love beſt on Earth, (and which beſt deſerves it) we ſhall add to our Prayers, That Queen <hi>Mary</hi> may equally live long with your Ma<g ref="char:EOLhyphen"/>jeſty, that her life may be a laſting Pattern for Virtue, Reproach to Vice, and her Perſon an unparallelled Grace to your Throne.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Sacred Maieſty; <hi>Anno DOM.</hi> 1685.</p>
+            <pb facs="tcp:180356:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
